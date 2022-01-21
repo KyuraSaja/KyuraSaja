@@ -1,16 +1,54 @@
-### Hi there 👋
+<h1 align="center">Hiiii! <img src="https://telegra.ph/file/af5c140fee9800a1a21a0.jpg" style="border-radius:5;" width="45px" alt=""><br></h1>
+<p align="center">
+<a href="https://youtube.com/c/KyuraSaja"><img align="center" height="auto" src="https://telegra.ph/file/af5c140fee9800a1a21a0.jpg/></a>
 
-<!--
-**KyuraSaja/KyuraSaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+- Halo, Saya Kyura
+- Baru Umur 8
+- Tinggal di Bali, Indonesia
+- Kelas 11 SMKN 1 Sawan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+------
+
+### Connect with me 
+<p align="center">
+  <a href="https://instagram.com/kyura.senpai_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6281998903280"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+
+  
+------
+
+### Youtube Kyura
+<p align="center">
+<a href="https://youtube.com/c/KYURA"><img align="center" height="auto" src="https://github.com/YuzzuKamiyaka/image/blob/main/IMG-20210904-WA0000.png"/></a><br><br>
+<a href="https://youtube.com/c/KYURA"><img src="https://camo.githubusercontent.com/d56af0508b6719132b386c00da86b2cf234084af1e4e4888ebd4b0c5106433e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75747562652d7265643f7374796c653d666c61742d737175617265266c6f676f3d796f7574756265" />
+</a><br>
+<a href="https://youtube.com/c/KYURA"><img src="https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web/tiktok/web/node/_next/static/images/create-38e08fcedb8660d05e3c463376e49544.svg" />
+</a>
+<p align="center">
+
+- Kyura
+- Subscribe yaa:V
+
+------
+
+### Spotify Music
+
+<p align="center">
+  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
+ 
+### Github Stats 
+
+![github card](https://github-readme-stats.vercel.app/api?username=KyuraSaja&show_icons=true&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KyuraSaja&theme=monokai)
+
+### Repo Stats 
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=KyuraSaja&repo=bitch-bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=KyuraSaja&repo=yuzzu-api&theme=dark)
