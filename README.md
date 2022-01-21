@@ -5,11 +5,11 @@
 <p align="center">
 Kamu liat komet kan? cepetan lariiii
   
--- nama gw kyura octavio suputra
--- umur 8
--- tinggal di bali, indonesia
--- Tq dah subscribe & support
--- tidak ada yang spesial disini kecuali hatimu<3
+  - nama gw kyura octavio suputra
+  - umur 8
+  - tinggal di bali, indonesia
+  - Tq dah subscribe & support
+  - tidak ada yang spesial disini kecuali hatimu<3
 
 
 ------
