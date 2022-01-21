@@ -1,4 +1,4 @@
-<h1 align="center">Hiiii! <img src="https://github.com/YuzzuKamiyaka/image/blob/main/Kanna%20-%20eyes%20on%20you.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
+<h1 align="center">yoo ada apa kesini <img src="https://telegra.ph/file/ea06f58ea001a2de54471.jpg"
 <p align="center">
 <a href="https://youtube.com/c/YuzzuKamiyaka"><img align="center" height="auto" src="https://github.com/YuzzuKamiyaka/image/blob/main/442757cb859d28f896389b76fff1d758.gif"/></a>
 
