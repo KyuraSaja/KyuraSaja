@@ -27,16 +27,11 @@ Kamu liat komet kan? cepetan lariiii
 <a href="https://youtube.com/c/KYURA"><img align="center" height="auto" src="https://telegra.ph/file/029a3f5d5c7d62050344c.png"/></a><br><br>
 <a href="https://youtube.com/c/KYURA"><img src="https://camo.githubusercontent.com/d56af0508b6719132b386c00da86b2cf234084af1e4e4888ebd4b0c5106433e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75747562652d7265643f7374796c653d666c61742d737175617265266c6f676f3d796f7574756265" />
 </a><br>
-<a href="https://youtube.com/c/KYURA"><img src="https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web/tiktok/web/node/_next/static/images/create-38e08fcedb8660d05e3c463376e49544.svg" />
-</a>
 <p align="center">
-
-- Yuzzu Kamiyaka
-- See more and subscribe
 
 ------
 
-### Spotify Music
+### dengerin spotify
 
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
@@ -46,11 +41,11 @@ Kamu liat komet kan? cepetan lariiii
  
 ### Github Stats 
 
-![github card](https://github-readme-stats.vercel.app/api?username=YuzzuKamiyaka&show_icons=true&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api?username=KyuraSaja&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuzzuKamiyaka&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KyuraSaja&theme=monokai)
 
-### Repo Stats 
+### Status Repo 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=YuzzuKamiyaka&repo=bitch-bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=YuzzuKamiyaka&repo=yuzzu-api&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=KyuraSaja&repo=KyurabotV2&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=KyuraSaja&repo=KyurabotV1&theme=dark)
