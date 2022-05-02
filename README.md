@@ -3,14 +3,7 @@
 <a href="https://youtube.com/c/KYURA"><img align="center" height="auto" src="https://telegra.ph/file/af5c140fee9800a1a21a0.jpg"/></a>
 
 <p align="center">
-Kamu liat komet kan? cepetan lariiii
-  
-  - nama gw kyura octavio suputra
-  - umur 8
-  - tinggal di bali, indonesia
-  - Tq dah subscribe & support
-  - tidak ada yang spesial disini kecuali hatimu<3
-
+u see the comet right?
 
 ------
 
