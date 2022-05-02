@@ -38,14 +38,3 @@ Kamu liat komet kan? cepetan lariiii
 </p>
 
 ------
- 
-### Github Stats 
-
-![github card](https://github-readme-stats.vercel.app/api?username=KyuraSaja&show_icons=true&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KyuraSaja&theme=monokai)
-
-### Status Repo 
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=KyuraSaja&repo=KyurabotV2&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=KyuraSaja&repo=KyurabotV1&theme=dark)
